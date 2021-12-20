@@ -15,7 +15,7 @@
                          </group>
                     </group>
                     <footer>
-                        <button string='Add Rate' name="get_currency_rate" type="object" class="btn-primary"/>
+                        <button string='Agregar Tasas' name="get_currency_rate" type="object" class="btn-primary"/>
                         <button string="Cancel" class="btn-default" special="cancel"/>
                     </footer>
                </form>

@@ -5,7 +5,7 @@
             <field name="name">currency.rate.update.now.form</field>
             <field name="model">currency.rate.update.now</field>
             <field name="arch" type="xml">
-                <form string="Date Range">
+                <form string="Actualizar Ahora">
                     <group>
                          <group>
                             <field name="date"/>
